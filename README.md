@@ -97,7 +97,7 @@
     <section id="apply">
       <h2>Apply Now</h2>
       <p>Interested in joining? Click the button below to start your application.</p>
-      <a href="https://forms.gle/YOUR_REAL_FORM_LINK" class="btn" target="_blank">Start Application</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4dqRCcR8z0hMHBscD5dQkOw74SSpDFEG1a8b7GlCC_APZOg/viewform?usp=header" class="btn" target="_blank">Start Application</a>
     </section>
 
     <section id="contact">
