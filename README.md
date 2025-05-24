@@ -102,7 +102,7 @@
 
     <section id="contact">
       <h2>Contact Us</h2>
-      <p>Email: info@mindthegaptraining.com</p>
+      <p>Email: aclokaklilu12@gmail.com or natube1619@gmail.com</p>
       <p>Phone: +251-xxx-xxx-xxx</p>
       <p>Location: Addis Ababa, Ethiopia</p>
     </section>
