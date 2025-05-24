@@ -97,13 +97,13 @@
     <section id="apply">
       <h2>Apply Now</h2>
       <p>Interested in joining? Click the button below to start your application.</p>
-      <a href="https://forms.gle/XaS1usRUMSey8JFP9" class="btn" target="_blank">Start Application</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4dqRCcR8z0hMHBscD5dQkOw74SSpDFEG1a8b7GlCC_APZOg/viewform?usp=header" class="btn" target="_blank">Start Application</a>
     </section>
 
     <section id="contact">
       <h2>Contact Us</h2>
-      <p>Email: aclokaklilu21@gmail.com or natube1619@gmail.com</p>
-      <p>Phone: +251945842524</p>
+      <p>Email: info@mindthegaptraining.com</p>
+      <p>Phone: +251-xxx-xxx-xxx</p>
       <p>Location: Addis Ababa, Ethiopia</p>
     </section>
   </main>
